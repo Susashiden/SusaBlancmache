@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/lib/META-INF/maven/basemod/BaseMod/BaseMod.iml" filepath="$PROJECT_DIR$/lib/META-INF/maven/basemod/BaseMod/BaseMod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicMod/BasicMod.iml" filepath="$PROJECT_DIR$/BasicMod/BasicMod.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExampleMod/ExampleMod.iml" filepath="$PROJECT_DIR$/ExampleMod/ExampleMod.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lib/META-INF/maven/com.github.trixt0r/Spriter/Spriter.iml" filepath="$PROJECT_DIR$/lib/META-INF/maven/com.github.trixt0r/Spriter/Spriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Isshin/Isshin.iml" filepath="$PROJECT_DIR$/Isshin/Isshin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SusaBlancmache.iml" filepath="$PROJECT_DIR$/.idea/SusaBlancmache.iml" />
     </modules>
   </component>
