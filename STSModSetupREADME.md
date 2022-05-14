@@ -60,23 +60,23 @@ You should be able to run Slay the Spire by running `MTS.cmd` (`MTS.sh` on a mac
 ### Write Some Code
 You've probably noticed our ExampleMod didn't do anything. Let's change that!
 
-Right now, `ModInitializer.java` should look like this
+Right now, `isshin.Isshin.java` should look like this
 
 ```Java
 @SpireInitializer
-public class ModInitializer {
+public class ModInitilizer {
 
 
-    public ModInitializer(){
+    public ModInitilizer(){
         //Use this for when you subscribe to any hooks offered by BaseMod.
-        BaseMod.subscribe(this)
+        //BaseMod.subscribe(this);
     }
 
     //Used by @SpireInitializer
     public static void initialize(){
 
         //This creates an instance of our classes and gets our code going after BaseMod and ModTheSpire initialize.
-        ModInitializer modInitializer = new ModInitializer();
+        ModInitilizer modInitilizer = new ModInitilizer();
     }
 
 }
@@ -85,7 +85,7 @@ public class ModInitializer {
 BaseMod uses listeners to run code when certain events happen. Let's implement the `PostDrawSubscriber`.
 
 ```Java
-public class ModInitializer implements PostDrawSubscriber {
+public class ModInitilizer implements PostDrawSubscriber {
 ```
 
 ```Java

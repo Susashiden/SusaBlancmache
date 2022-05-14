@@ -6,7 +6,10 @@
         <option value="$PROJECT_DIR$/lib/META-INF/maven/basemod/BaseMod/pom.xml" />
         <option value="$PROJECT_DIR$/lib/META-INF/maven/com.github.trixt0r/Spriter/pom.xml" />
         <option value="$PROJECT_DIR$/ExampleMod/pom.xml" />
+        <option value="$PROJECT_DIR$/Isshin/pom.xml" />
+        <option value="$PROJECT_DIR$/BasicMod/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>
