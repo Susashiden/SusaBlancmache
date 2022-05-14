@@ -1,1 +1,8 @@
-ModInitializer.class
+isshin\util\CardInfo.class
+isshin\character\IsshinCharacter$Enums.class
+isshin\util\KeywordInfo.class
+isshin\util\GeneralUtils.class
+isshin\util\TextureLoader$1.class
+isshin\util\TextureLoader.class
+isshin\character\IsshinCharacter.class
+isshin\Isshin.class

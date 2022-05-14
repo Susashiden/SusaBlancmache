@@ -4,72 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="823dd412-5e66-47c2-b40b-cff4e4893d5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BasicMod/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/java/basicmod/BasicMod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/java/basicmod/cards/BaseCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/java/basicmod/powers/BasePower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/java/basicmod/relics/BaseRelic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/java/basicmod/util/CardInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/java/basicmod/util/GeneralUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/java/basicmod/util/KeywordInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/java/basicmod/util/TextureLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/ModTheSpire.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/badge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/cards/attack/default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/cards/attack/default_p.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/cards/power/default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/cards/power/default_p.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/cards/skill/default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/cards/skill/default_p.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/localization/eng/CardStrings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/localization/eng/CharacterStrings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/localization/eng/EventStrings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/localization/eng/Keywords.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/localization/eng/OrbStrings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/localization/eng/PotionStrings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/localization/eng/PowerStrings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/localization/eng/RelicStrings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/localization/eng/UIStrings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/missing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/powers/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/powers/large/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/relics/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicMod/src/main/resources/basicmod/relics/large/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Isshin/Isshin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Isshin/dependency-reduced-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Isshin/help_pom.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Isshin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Isshin/src/main/java/ModInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/ModTheSpire.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/help.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Isshin/target/antrun/build-main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Isshin/target/classes/ModInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Isshin/target/classes/ModTheSpire.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Isshin/target/classes/help.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Isshin/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Isshin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Isshin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Isshin/target/original-ExampleMod.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_ModTheSpire/mods/Isshin.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="823dd412-5e66-47c2-b40b-cff4e4893d5b" name="Changes" comment="Finalized the setup and are ready to implement logics and import assets.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/java/isshin/Isshin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/java/isshin/character/IsshinCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/java/isshin/util/CardInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/java/isshin/util/GeneralUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/java/isshin/util/KeywordInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/java/isshin/util/TextureLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/badge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/cards/attack/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/cards/attack/default_p.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/cards/power/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/cards/power/default_p.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/cards/skill/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/cards/skill/default_p.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/localization.eng/CardStrings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/localization.eng/CharacterStrings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/localization.eng/EventStrings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/localization.eng/Keywords.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/localization.eng/OrbStrings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/localization.eng/PotionStrings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/localization.eng/PowerStrings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/localization.eng/RelicStrings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/localization.eng/UIStrings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/powers/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/powers/large/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/relics/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Isshin/src/main/resources/isshin/relics/large/example.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/STSModSetup-master.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/BaseMod.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/BaseMod.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/META-INF/maven/basemod/BaseMod/BaseMod.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/META-INF/maven/basemod/BaseMod/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/META-INF/maven/basemod/BaseMod/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/META-INF/maven/com.github.trixt0r/Spriter/Spriter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BasicMod/BasicMod.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/META-INF/maven/com.github.trixt0r/Spriter/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/META-INF/maven/com.github.trixt0r/Spriter/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ModTheSpire.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ModTheSpire.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Isshin/dependency-reduced-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Isshin/dependency-reduced-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Isshin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Isshin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Isshin/src/main/java/ModInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Isshin/target/Isshin-0.0.1-shaded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Isshin/target/Isshin-0.0.1-shaded.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Isshin/target/Isshin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Isshin/target/Isshin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Isshin/target/classes/ModInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Isshin/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Isshin/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Isshin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Isshin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Isshin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Isshin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Isshin/target/original-Isshin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Isshin/target/original-Isshin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/STSModSetupREADME.md" beforeDir="false" afterPath="$PROJECT_DIR$/STSModSetupREADME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_ModTheSpire/mods/Isshin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/_ModTheSpire/mods/Isshin.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +92,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "D:/Github/ModTheSpire/SusaBlancmache/BasicMod",
+    "last_opened_file_path": "D:/Github/ModTheSpire/SusaBlancmache/Isshin/src/main/java/isshin/util",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -130,7 +106,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\ModTheSpire\SusaBlancmache\Isshin\src\main\java\isshin\util" />
+      <recent name="D:\Github\ModTheSpire\SusaBlancmache\Isshin\src\main\resources\isshin" />
       <recent name="D:\Github\ModTheSpire\SusaBlancmache" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github\ModTheSpire\SusaBlancmache\Isshin\src\main\resources\isshin\localization.eng" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="isshin" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -144,6 +128,7 @@
       <workItem from="1652446933769" duration="1621000" />
       <workItem from="1652449020208" duration="3460000" />
       <workItem from="1652454633498" duration="4015000" />
+      <workItem from="1652513879456" duration="5553000" />
     </task>
     <servers />
   </component>
@@ -163,6 +148,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Finalized the setup and are ready to implement logics and import assets." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalized the setup and are ready to implement logics and import assets." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
